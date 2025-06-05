@@ -1,1 +1,1 @@
-setxkbmap de && feh --bg-scale /home/johnny/Dokumente/wallpapers/fav/lain_01.jpg && exec dwm
+feh --bg-scale /home/bonell/old_files/wallpapers/103304065_p0.jpg && setxkbmap de && exec dwm
