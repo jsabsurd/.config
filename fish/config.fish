@@ -3,3 +3,6 @@ if status is-interactive
 end
 
 alias ff="fastfetch"
+alias ls="exa --icons --group-directories-first"
+alias ll="exa -lah --git"
+starship init fish | source
