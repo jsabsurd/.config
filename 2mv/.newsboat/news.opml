@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+  <head>
+    <title>Newsboat - Exported Feeds</title>
+  </head>
+  <body>
+    <outline type="rss" xmlUrl="https://www.unsere-zeit.de/feed/gn" htmlUrl="https://www.unsere-zeit.de/" title="Unsere Zeit" text="Unsere Zeit"/>
+    <outline type="rss" xmlUrl="https://www.nd-aktuell.de/rss/neues-deutschland.xml" htmlUrl="https://www.nd-aktuell.de/" title="nd" text="nd"/>
+    <outline type="rss" xmlUrl="https://www.nd-aktuell.de/rss/aktuell.php" htmlUrl="https://www.nd-aktuell.de/" title="nd" text="nd"/>
+    <outline type="rss" xmlUrl="https://www.n-tv.de/politik/rss" htmlUrl="https://www.n-tv.de/politik/" title="n-tv.de - Politik" text="n-tv.de - Politik"/>
+    <outline type="rss" xmlUrl="https://taz.de/!p4608;rss/" htmlUrl="https://taz.de/!p4608/" title="taz.de - taz.de" text="taz.de - taz.de"/>
+    <outline type="rss" xmlUrl="https://feeds.feedburner.com/TheHackersNews" htmlUrl="https://thehackernews.com/" title="The Hacker News" text="The Hacker News"/>
+    <outline type="rss" xmlUrl="https://xkcd.com/rss.xml" htmlUrl="https://xkcd.com/" title="xkcd.com" text="xkcd.com"/>
+    <outline type="rss" xmlUrl="https://www.bsi.bund.de/SiteGlobals/Functions/RSSFeed/RSSNewsfeed/RSSNewsfeed_Presse_Veranstaltungen.xml" htmlUrl="https://www.bsi.bund.de/" title="BSI RSS-Newsfeed Presse-, Kurzmitteilungen und Veranstaltungshinweise" text="BSI RSS-Newsfeed Presse-, Kurzmitteilungen und Veranstaltungshinweise"/>
+    <outline type="rss" xmlUrl="https://www.bsi.bund.de/SiteGlobals/Functions/RSSFeed/RSSNewsfeed/RSSNewsfeed_KRITIS-aktuell.xml" htmlUrl="https://www.bsi.bund.de/" title="BSI RSS-Newsfeed KRITIS aktuell" text="BSI RSS-Newsfeed KRITIS aktuell"/>
+    <outline type="rss" xmlUrl="https://www.bsi.bund.de/SiteGlobals/Functions/RSSFeed/RSSNewsfeed/RSSNewsfeed_NESAS.xml" htmlUrl="https://www.bsi.bund.de/" title="BSI RSS-Newsfeed NESAS" text="BSI RSS-Newsfeed NESAS"/>
+    <outline type="rss" xmlUrl="https://wid.cert-bund.de/content/public/securityAdvisory/rss" htmlUrl="https://wid.cert-bund.de/portal/wid/securityadvisory" title="BSI Warn- und Informationsdienst (WID): Schwachstellen-Informationen (Security Advisories)" text="BSI Warn- und Informationsdienst (WID): Schwachstellen-Informationen (Security Advisories)"/>
+    <outline type="rss" xmlUrl="https://www.bsi.bund.de/SiteGlobals/Functions/RSSFeed/RSSNewsfeed/RSSNewsfeed_CSW.xml" htmlUrl="https://www.bsi.bund.de/" title="BSI RSS-Newsfeed BSI-IT-Sicherheitsmitteilungen (BITS" text="BSI RSS-Newsfeed BSI-IT-Sicherheitsmitteilungen (BITS"/>
+  </body>
+</opml>
